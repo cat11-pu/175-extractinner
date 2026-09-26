@@ -1,0 +1,4 @@
+{
+  "paren_error_code": "E_UNPAIRED",
+  "text": "pre(a)mid()post(ghi)"
+}
